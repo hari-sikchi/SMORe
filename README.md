@@ -12,6 +12,11 @@ Official JAX code base for ICLR 2024 paper - SMORE: Score Models for Goal-Condit
 
 <sup>3</sup>UMass Amherst
 
+<p align="center">
+  <img src='figs/smore.png' width="600"/><br>
+   <a href="https://arxiv.org/abs/2311.02013">Paper</a> <!--, &nbsp; <a href="">blog post</a> -->
+</p>
+
 ## How to run the code
 
 ### Install dependencies
