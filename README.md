@@ -1,6 +1,6 @@
 # SMORe
 
-Official JAX code base for ICLR 2024 paper - SMORE: Score Models for Goal-Conditioned Reinforcement Learning
+Official JAX code base for ICLR 2024 paper - SMORE: Score Models for Offline Goal-Conditioned Reinforcement Learning
 
 #### [[Project Page]](https://hari-sikchi.github.io/smore/) [[Paper]](https://arxiv.org/abs/2311.02013)
 
